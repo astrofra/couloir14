@@ -8,6 +8,8 @@ _Couloir 14, found documents_<br>
 
 Introducing the Couloir 14 project (Ref. C14-2023-04), a comprehensive investigation into a diverse collection of documents aimed at unearthing hidden truths and exploring alternate realities. Our rigorous research methodology includes the analysis of fabricated quotes from well-known personalities to challenge conventional wisdom and encourage critical thinking about the world around us.
 
+:link: [Visit the website](https://astrofra.github.io/couloir14/)
+
 <br>
 
 ## Demoscene production
@@ -21,3 +23,5 @@ Some theories suggest that "Couloir 14" contains cryptic references to disreputa
 ![Windows 100%](img/win100.jpg)
 
 Adding to the intrigue of "Couloir 14," a Japanese adult magazine made the bold decision to publish the demo in an attempt to provide a "demoshock" to the Japanese audience. The magazine, known for pushing boundaries and exploring unconventional content, believed that the provocative nature of "Couloir 14" would resonate with their readers and challenge their perceptions of digital art.
+
+:link: [See the demoscene production](https://www.pouet.net/prod.php?which=3054)
