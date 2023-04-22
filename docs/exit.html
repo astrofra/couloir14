@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>couloir14</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
     <style>
         body {
             background-color: #000000;
@@ -35,8 +36,9 @@
         }
 
         .author {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 100;
             font-size: 1rem;
-            font-weight: bold;
             text-align: center;
         }
 
@@ -46,13 +48,26 @@
             background-color: #000000;
         }
     </style>
+    <script>
+        function changeText() {
+            var quote = document.getElementById("quote");
+            quote.innerHTML = '"In the age of information, the AI holds the power to both illuminate the truth<br>and propagate the most deceptive lies, shaping our perception of reality."';
+        }
+
+        function restoreText() {
+            var quote = document.getElementById("quote");
+            quote.innerHTML = '"In the age of information, the web holds the power to both illuminate the truth<br>and propagate the most deceptive lies, shaping our perception of reality."';
+        }
+    </script>
 </head>
 
 <body>
     <div class="container">
         <div class="separator"></div>
-        <a href="https://github.com/astrofra/couloir14" target="_blank"><img src="im/noam-chomsky-portrait.png" alt="Noam Chomsky" /></a>
-        <div class="quote">"In the age of information, the internet holds the power to both illuminate the truth<br>and propagate the most deceptive lies, shaping our perception of reality."</div>
+        <a href="https://github.com/astrofra/couloir14" target="_blank" onmouseover="changeText()" onmouseout="restoreText()">
+            <img src="im/noam-chomsky-portrait.png" alt="Noam Chomsky" />
+        </a>
+        <div class="quote" id="quote">"In the age of information, the web holds the power to both illuminate the truth<br>and propagate the most deceptive lies, shaping our perception of reality."</div>
         <div class="author">Noam Chomsky</div>
         <div class="small-separator"></div>
     </div>
