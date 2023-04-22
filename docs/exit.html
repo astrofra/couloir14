@@ -1,37 +1,61 @@
-<HTML>
+<!DOCTYPE html>
+<html lang="en">
 
-<HEAD>
-  <TITLE>couloir14</TITLE>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</HEAD>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>couloir14</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: 'Verdana', Arial, Helvetica, sans-serif;
+        }
 
-<BODY BGCOLOR="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#000000" alink="#000000">
-  <div align="CENTER">
-    <table border="0" width="600" align="CENTER" cellspacing="4" cellpadding="0">
-      <tr>
-        <td align="CENTER" valign="MIDDLE">
-          <div align="CENTER">
-            <img src="im/noir.gif" width="500" height="40">
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td align="CENTER" valign="MIDDLE">
-          <p>
-            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>"In the age of information, the internet
-                holds the power to both illuminate the truth and propagate the most deceptive lies, shaping our
-                perception of reality."</b></font>
-          </p>
-          <p>
-            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Noam Chomsky</b></font>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td align="CENTER" valign="MIDDLE"><img src="im/noir.gif" width="500" height="20"></td>
-      </tr>
-    </table>
-  </div>
-</BODY>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
 
-</HTML>
+        .separator {
+            width: 500px;
+            height: 40px;
+            background-color: #000000;
+        }
+
+        .quote {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1rem;
+            font-weight: bold;
+            text-align: center;
+            padding: 0 1rem;
+        }
+
+        .author {
+            font-size: 1rem;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .small-separator {
+            width: 500px;
+            height: 20px;
+            background-color: #000000;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="separator"></div>
+        <a href="https://github.com/astrofra/couloir14" target="_blank"><img src="im/noam-chomsky-portrait.png" alt="Noam Chomsky" /></a>
+        <div class="quote">"In the age of information, the internet holds the power to both illuminate the truth<br>and propagate the most deceptive lies, shaping our perception of reality."</div>
+        <div class="author">Noam Chomsky</div>
+        <div class="small-separator"></div>
+    </div>
+</body>
+
+</html>
