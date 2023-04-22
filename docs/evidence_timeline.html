@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e v i d e n c e . t i m e l i n e</title>
+    <style>
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+        }
+        table {
+            border-collapse: collapse;
+            width: 5869px;
+            height: 1024px;
+            margin: 0 auto;
+        }
+        td {
+            border: none;
+            padding: 0;
+        }
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    </style>
+    <script>
+        let frameCounter = 0;
+        let firstLayerNoise = 0;
+
+        function randomizeWidth() {
+            const oddImages = document.querySelectorAll('img:nth-child(odd)');
+            oddImages.forEach(img => {
+                let widthAdjustment;
+                if (frameCounter % 8 === 0) {
+                    firstLayerNoise = Math.floor(Math.random() * 2); // Random number from -4 to 4
+                }
+                if (frameCounter % 16 === 0) {
+                    secondLayerNoise = Math.floor(Math.random() * 2); // Random number from -4 to 4
+                }
+                widthAdjustment = firstLayerNoise + secondLayerNoise;
+
+                img.style.width = `calc(100% + ${widthAdjustment}px)`;
+                img.style.height = 'calc(1024px)';
+            });
+
+            frameCounter++;
+            requestAnimationFrame(randomizeWidth);
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            randomizeWidth();
+        });
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><a href="menu.html"><img src="im/img-timeline/img000.png" alt="img000"></a></td>
+            <td><a href="menu.html"><img src="im/img-timeline/img001.png" alt="img001"></a></td>
+            <td><img src="im/img-timeline/img002.png" alt="img002"></td>
+            <td><img src="im/img-timeline/img003.png" alt="img003"></td>
+            <td><img src="im/img-timeline/img004.png" alt="img004"></td>
+            <td><img src="im/img-timeline/img005.png" alt="img005"></td>
+            <td><img src="im/img-timeline/img006.png" alt="img006"></td>
+            <td><img src="im/img-timeline/img007.png" alt="img007"></td>
+            <td><img src="im/img-timeline/img008.png" alt="img008"></td>
+            <td><img src="im/img-timeline/img009.png" alt="img009"></td>
+            <td><img src="im/img-timeline/img010.png" alt="img010"></td>
+            <td><img src="im/img-timeline/img011.png" alt="img011"></td>
+            <td><img src="im/img-timeline/img012.png" alt="img012"></td>
+            <td><img src="im/img-timeline/img013.png" alt="img013"></td>
+            <td><img src="im/img-timeline/img014.png" alt="img014"></td>
+            <td><img src="im/img-timeline/img015.png" alt="img015"></td>
+            <td><img src="im/img-timeline/img016.png" alt="img016"></td>
+            <td><img src="im/img-timeline/img017.png" alt="img017"></td>
+            <td><img src="im/img-timeline/img018.png" alt="img018"></td>
+            <td><img src="im/img-timeline/img019.png" alt="img019"></td>
+        </tr>
+    </table>
+</body>
+</html>
