@@ -1,0 +1,471 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 100
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 200
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\planet\hallo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -4.799997 7.800005 0 1.044 1.044 1.044
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+ParentObject 2
+ObjDissolve 0.400000
+ShadowOptions 7
+
+LoadObject T:\planet\planet.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.521507 0 0.07518019 -74.70003 0 0 2.079999 2.079999 2.079999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject T:\planet\sky.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 129.2001 -32.2 0 50 15 50
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 53
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.027069 0.2200001 0.002164228 0 0 0 0.1319999 0.1319999 0.1319999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.77207 0.2200001 -0.1503358 0 0 0 0.1519999 0.1519999 0.1519999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.529569 0.2200001 0.05716421 0 0 0 0.1719999 0.1719999 0.1719999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.152069 0.2200001 0.2571642 0 0 0 0.1719999 0.1719999 0.1719999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  3.85957 0.2200001 0.3221642 0 0 0 0.1799999 0.1799999 0.1799999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.53207 0.2200001 0.1096643 0 0 0 0.1959999 0.1959999 0.1959999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.159571 0.2200001 0.07466426 0 0 0 0.1999999 0.1999999 0.1999999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.607069 0.2200001 -0.4678356 0 0 0 0.1999999 0.1999999 0.1999999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.18707 0.2200001 -0.8228357 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  6.794569 0.2200001 -0.5803356 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  7.52457 0.2200001 -0.4978357 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.179572 0.2200001 -0.5578358 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  8.82457 0.2200001 -0.8878356 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.089569 0.2200001 -0.2728357 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.654574 0.2200001 0.06966425 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  10.32957 0.2200001 0.08466428 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.04457 0.2200001 0.03716441 0 0 0 0.2079999 0.2079999 0.2079999
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\planet\stars.lwo
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 0.892 0.892 0.892
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+PolygonSize (envelope)
+  1
+  9
+  0.15
+  0 0 0 0 0
+  0.14
+  1 0 0 0 0
+  0.15
+  2 0 0 0 0
+  0.12
+  3 0 0 0 0
+  0.17
+  4 0 0 0 0
+  0.1
+  5 0 0 0 0
+  0.12
+  6 0 0 0 0
+  0.09
+  7 0 0 0 0
+  0.15
+  8 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\planet\stars2.lwo
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 0.6880001 0.6880001 0.6880001
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+PolygonSize (envelope)
+  1
+  9
+  0.075
+  0 0 0 0 0
+  0.07
+  1 0 0 0 0
+  0.075
+  2 0 0 0 0
+  0.06
+  3 0 0 0 0
+  0.085
+  4 0 0 0 0
+  0.05
+  5 0 0 0 0
+  0.06
+  6 0 0 0 0
+  0.045
+  7 0 0 0 0
+  0.075
+  8 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.071024 0.1625 3.18298 -90 0 0 0.9720003 0.9720003 0.9720003
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.171381 1.1975 -2.993407 -90 0 0 0.878 0.878 0.878
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  4.186026 -2.3725 0.4829797 -90 0 0 0.9479997 0.9479997 0.9479997
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  5.568526 0.5499998 0.9379798 -90 0 0 0.8280003 0.8280003 0.8280003
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  2
+  9.075781 -0.02750036 -2.014094 -90 0 0 0.72 0.72 0.72
+  0 0 0 0 0
+  9.170184 -0.02750036 -1.559072 -90 0 0 0.72 0.72 0.72
+  65 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.5635243 1.1975 0.7129797 -90 0 0 0.6519999 0.6519999 0.6519999
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\planet\cache.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -8.633298 0.1600002 -10.69715 -234.7 0 90 39.676 40.61399 76.16199
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject T:\planet\cache.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.4525 0 0 180 0 1.618 1.618 1.618
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 61
+ParentObject 3
+ShadowOptions 7
+
+AmbientColor 0 64 128
+AmbIntensity 0.500000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -6.263624 -2.76 -1.946223 78.60001 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 0 64 128
+LgtIntensity 8.000000
+LightType 1
+LightFalloff 1
+LightRange 25.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2.879699 1.5375 3.50401 75.20001 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 255 255 128
+LgtIntensity 8.000000
+LightType 1
+LightFalloff 1
+LightRange 15.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  4
+  2.694947 0.8225001 -0.599237 -61.00001 18.10002 0 1 1 1
+  0 0 -0.98 0 0
+  5.630783 1.1925 -0.6460795 -53.50001 29.70001 0 1 1 1
+  51 0 0.27 0 0
+  8.832373 0.2200002 0.06940195 -85.7 12.9 0 1 1 1
+  125 0 0 0 0
+  11.32338 -0.1350003 0.563646 -124.8 -24.3 0 1 1 1
+  200 0 0 0 0
+EndBehavior 1
+ZoomFactor 2.000000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 1850000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+
+ViewMode 2
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.853467 -0.560250 0.000000
+ViewZoomFactor 0.355458
+GridNumber 10
+GridSize 0.500000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

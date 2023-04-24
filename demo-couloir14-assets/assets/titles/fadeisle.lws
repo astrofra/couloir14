@@ -1,0 +1,136 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 50
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 225
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\fade_white.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve (envelope)
+  1
+  8
+  0
+  0 0 1 0 0
+  0.1880001
+  4 0 0 0 0
+  0.896
+  9 0 0 0 0
+  1
+  15 0 1 0 0
+  1
+  213 0 1 0 0
+  0.8360001
+  219 0 0 0 0
+  0.108
+  222 0 0 0 0
+  0
+  225 0 1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\titles\coolworld.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.01081 -0.007815002 -0.001975001 0 0 0 0.003 0.002 0.002
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 320
+ObjDissolve (envelope)
+  1
+  8
+  1
+  0 0 0 0 0
+  1
+  45 0 1 0 0
+  0.7340003
+  63 0 0 0 0
+  0.1660001
+  70 0 0.06999995 0 0
+  0
+  100 0 1 0 0
+  0.3860001
+  143 0 -0.6699999 0 0
+  0.9440003
+  148 0 0 0 0
+  1
+  150 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -2 2 -2 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 -0.04645001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 1850000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000800 -0.002500 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 0.526749
+GridNumber 0
+GridSize 0.001000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

@@ -1,0 +1,373 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 41
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 225
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\factory\isle.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\factory\lights1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PolygonSize (envelope)
+  1
+  5
+  0.4
+  0 0 0 0 0
+  0.1
+  3 0 0 0 0
+  0
+  8 0 1 0 0
+  0
+  39 0 1 0 0
+  0.1
+  41 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\factory\lights2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PolygonSize (envelope)
+  1
+  6
+  0
+  0 0 1 0 0
+  0.05
+  6 0 0 0 0
+  0.2
+  8 0 -0.37 0 0
+  0.05
+  11 0 0 0 0
+  0
+  16 0 1 0 0
+  0
+  41 0 1 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\factory\vagues.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 5
+
+LoadObject T:\factory\sky.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  11
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  0 0 0 0 0
+  0 -0.15 0 -41.005 0 0 4.36 0.7939997 4.404001
+  1 0 0 0 0
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  3 0 0 0 0
+  0 -0.15 0 -41.005 0 0 4.36 0.7939997 4.404001
+  4 0 0 0 0
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  6 0 0 0 0
+  0 -0.15 0 -41.005 0 0 4.36 0.7939997 4.404001
+  8 0 0 0 0
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  9 0 0 0 0
+  0 -0.15 0 -41.005 0 0 4.36 0.7939997 4.404001
+  11 0 0 0 0
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  13 0 0 0 0
+  0 -0.15 0 -41.005 0 0 4.36 0.7939997 4.404001
+  14 0 0 0 0
+  0 -0.15 0 -41 0 0 4.36 0.7939997 4.404001
+  16 0 0 0 0
+EndBehavior 2
+LockedChannels 181
+ParentObject 9
+ShadowOptions 7
+
+LoadObject T:\factory\sea.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -1.875 0 0 0 3.892001 3.892001 3.880001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ShadowOptions 7
+
+LoadObject T:\factory\shore.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.7749999 0.075 -3.72529e-009 0 0 0 1.028 1 1.078
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 133
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 0 0 0 1 1 1
+  0 0 1 0 0
+  0 0 0 0 0 0 1 1 1
+  124 0 1 0 0
+  0 8.874999 0 0 0 0 1 1 1
+  249 0 1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 36 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.608043 5.824999 1.883257 177.0001 0 0 0.6720001 0.6720001 0.6720001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.600000
+ShadowOptions 0
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.2142306 8.125001 2.462934 177.0001 0 0 0.6720001 0.6720001 0.6720001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.600000
+ShadowOptions 0
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.005771924 2.174999 3.853203 177.0001 0 0 0.6720001 0.6720001 0.6720001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.600000
+ShadowOptions 0
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.6072408 6.425 1.994648 177.0001 0 0 1.318 1.318 1.318
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.600000
+ShadowOptions 0
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  7.65 0 -5.674999 -54.90001 0 0 1 1 1
+  0 0 1 0 0
+  3.748557 0 -9.029283 -24.88889 0 0 1 1 1
+  83 0 -1 0 0
+  -2.64061 1.625 -8.675397 25.2 0 0 1 1 1
+  249 0 1 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.7000001 4.099999 1.425 177.0001 0 0 0.6720001 0.6720001 0.6720001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.600000
+ShadowOptions 0
+
+LoadObject T:\flare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.7000001 7.075 1.425 177.0001 0 0 3.074 3.074 3.074
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 14
+ObjDissolve 0.700000
+ShadowOptions 0
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+EnableShadowMaps 0
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  10.59999 16.57501 -9.849981 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 4.000000
+LightType 1
+LightFalloff 1
+LightRange 20.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -37.8577 1.45001 -0.7864818 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 65 92 114
+LgtIntensity 0.250000
+LightType 1
+LightFalloff 1
+LightRange 40.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.6077074 32.42501 -55.53649 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 65 92 114
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  3
+  41.6423 7.849995 27.71351 0 0 0 1 1 1
+  0 0 0 0 0
+  19.1298 7.849995 -28.06149 0 0 0 1 1 1
+  124 0 0 0 0
+  -33.4327 7.849995 -24.68649 0 0 0 1 1 1
+  249 0 0 0 0
+EndBehavior 1
+LightColor 65 92 114
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  3
+  -23.42706 5 13.2399 180 17.3 0 1 1 1
+  0 0 0 0 0
+  0 5 20 180 17.3 0 1 1 1
+  124 0 0 0 0
+  5.468285 5 16.33265 180 17.3 0 1 1 1
+  225 0 1 0 0
+EndBehavior 1
+LockedChannels 32
+TargetObject 8
+ZoomFactor 2.000000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 1
+AdaptiveSampling 1
+AdaptiveThreshold 8
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 192 192 192
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection -3.881612 -0.211185 0.000000
+ViewZoomFactor 0.899192
+GridNumber 30
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

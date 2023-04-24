@@ -1,0 +1,920 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 6
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 250
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\mib\malone\bassin.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1.419999 1.053999 1.447998
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3400
+PivotPoint 0 -8.903444e-007 0.205
+ParentObject 24
+IKAnchor 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\body.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1.96 0.1800001 -11.07064 0.02605948 0.02230295 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3120
+HLimits -20 20
+PLimits -40 60
+BLimits -10 10
+PJointStiffness 50
+BJointStiffness 100
+PivotPoint 0 1.96 0.1800001
+ParentObject 1
+IKAnchor 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\bras_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.5049999 3.194999 0.3 0 1.200028 7.299994 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3096
+PLimits -20 90
+BLimits 0 45
+BJointStiffness 50
+PivotPoint 0.5049999 3.194999 0.3
+ParentObject 2
+ShadowOptions 7
+
+LoadObject T:\mib\malone\bras_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.4849999 3.195 0.3 -16.00002 45.10012 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3072
+PLimits -20 90
+BLimits -45 0
+BJointStiffness 50
+PivotPoint -0.4849999 3.195 0.3
+ParentObject 2
+ShadowOptions 7
+
+LoadObject T:\mib\malone\cuisse_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.21 1.745 0.2 -8.199995 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3120
+HLimits -5 5
+PLimits -15 75
+HJointStiffness 100
+PJointStiffness 50
+PivotPoint 0.21 1.745 0.2
+ParentObject 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\cuisse_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.205 1.75 0.2 15.19999 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3120
+HLimits -5 5
+PLimits -15 75
+HJointStiffness 100
+PJointStiffness 50
+PivotPoint -0.205 1.75 0.2
+ParentObject 1
+ShadowOptions 7
+
+LoadObject T:\mib\aziz\head.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 3.46 0.31 10.59999 -12.8 0 0.7779999 0.9799998 0.7119999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 557
+HLimits -80 80
+PLimits -20 45
+BLimits -5 5
+PivotPoint 0 3.43125 0.3212499
+ParentObject 2
+ShadowOptions 7
+
+LoadObject T:\mib\malone\main_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.6049999 2.015 0.4 -33.79998 -3.49999 14.79999 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3096
+HLimits -5 5
+PLimits 0 20
+BLimits -20 20
+PJointStiffness 100
+BJointStiffness 50
+PivotPoint 0.6049999 2.015 0.4
+ParentObject 14
+GoalObject 17
+GoalStrength 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\main_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.6099999 2.009999 0.39 70.39999 -5.500001 -4.499989 1 1 1
+  0 0 0 0 0
+  -0.6099999 2.009999 0.39 73.80003 -5.500001 -4.499989 1 1 1
+  140 0 0 0 0
+EndBehavior 1
+LockedChannels 3120
+HLimits -5 5
+PLimits 0 20
+BLimits -20 20
+PJointStiffness 100
+BJointStiffness 50
+PivotPoint -0.6099999 2.009999 0.39
+ParentObject 15
+GoalObject 16
+GoalStrength 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\mollet_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.185 0.8650001 0.2000001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -160 0
+HJointStiffness 100
+PivotPoint 0.185 0.8650001 0.2000001
+ParentObject 5
+ShadowOptions 7
+
+LoadObject T:\mib\malone\mollet_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.175 0.8699999 0.2 -0.1 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -160 0
+HJointStiffness 100
+PivotPoint -0.175 0.8699999 0.2
+ParentObject 6
+ShadowOptions 7
+
+LoadObject T:\mib\malone\pied_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.18 0.2 0.21 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -20 20
+HJointStiffness 100
+PJointStiffness 100
+PivotPoint 0.18 0.2 0.21
+ParentObject 10
+ShadowOptions 7
+
+LoadObject T:\mib\malone\pied_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.175 0.2 0.215 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -20 20
+HJointStiffness 100
+PJointStiffness 100
+PivotPoint -0.175 0.2 0.215
+ParentObject 11
+ShadowOptions 7
+
+LoadObject T:\mib\malone\poignet_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0.5599999 2.59 0.36 24.80001 31.90002 -24.40004 1 1 1
+  0 0 0 0 0
+  0.5599999 2.59 0.36 24.80001 31.90002 -18.50002 1 1 1
+  204 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+HLimits -15 15
+PLimits 0 90
+HJointStiffness 50
+PivotPoint 0.5599999 2.59 0.36
+ParentObject 3
+ShadowOptions 7
+
+LoadObject T:\mib\malone\poignet_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.5699999 2.595001 0.36 -21.5 129.5998 15.00002 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+HLimits -15 15
+PLimits 0 90
+HJointStiffness 50
+PivotPoint -0.5699999 2.595001 0.36
+ParentObject 4
+ShadowOptions 7
+
+AddNullObject goal_main_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.2477434 1.860005 0.5364218 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.2477434 1.860005 0.5364218 0 0 0 1 1 1
+  13 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject goal_main_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  1.238794 3.510003 -0.01713311 0 0 0 1 1 1
+  0 0 0 0 0
+  1.238794 3.510003 -0.01713311 0 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject Null_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2528817 0 -0.3374922 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 56
+ParentObject 12
+GoalObject 21
+GoalStrength 1
+ShadowOptions 7
+
+AddNullObject Null_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.274833 0 -0.3333419 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 56
+ParentObject 13
+GoalObject 20
+GoalStrength 1
+ShadowOptions 7
+
+AddNullObject goal_pied_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.274833 0 -0.3333419 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject goal_pied_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2573659 0 -0.3576138 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject goal_pied_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.274833 0 -0.3333419 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject goal_pied_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2573659 0 -0.3576138 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject null_aziz
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.400885 0 -0.20908 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+AddNullObject Nulllights
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.595489 0 2.398939 421.5003 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject T:\mib\screen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.4444863 4.15 -6.085392 180 0 0 2.794 1.368001 0.696
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 320
+ShadowOptions 7
+
+AddNullObject Ref Obj
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\bassin.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -8.903444e-007 0.205 0 -3.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+PivotPoint 0 -8.903444e-007 0.205
+ParentObject 43
+IKAnchor 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\body.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1.96 0.1800001 0.02935727 5.526059 0.02230295 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+HLimits -20 20
+PLimits -40 60
+BLimits -10 10
+PJointStiffness 50
+BJointStiffness 100
+PivotPoint 0 1.96 0.1800001
+ParentObject 28
+ShadowOptions 7
+
+LoadObject T:\mib\malone\bras_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.5049999 3.194999 0.3 0 30.80001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+PLimits -20 90
+BLimits 0 45
+BJointStiffness 50
+PivotPoint 0.5049999 3.194999 0.3
+ParentObject 29
+ShadowOptions 7
+
+LoadObject T:\mib\malone\bras_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.4849999 3.195 0.3 0 28.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+PLimits -20 90
+BLimits -45 0
+BJointStiffness 50
+PivotPoint -0.4849999 3.195 0.3
+ParentObject 29
+ShadowOptions 7
+
+LoadObject T:\mib\malone\cuisse_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.21 1.745 0.2 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -15 75
+HJointStiffness 100
+PJointStiffness 50
+PivotPoint 0.21 1.745 0.2
+ParentObject 28
+ShadowOptions 7
+
+LoadObject T:\mib\malone\cuisse_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.205 1.75 0.2 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -15 75
+HJointStiffness 100
+PJointStiffness 50
+PivotPoint -0.205 1.75 0.2
+ParentObject 28
+ShadowOptions 7
+
+LoadObject T:\mib\malone\head.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 3.470002 0.28 -37.6 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3120
+HLimits -80 80
+PLimits -20 45
+BLimits -5 5
+PivotPoint 0 3.470002 0.28
+ParentObject 29
+ShadowOptions 7
+
+LoadObject T:\mib\malone\main_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.6049999 2.015 0.4 0 0 -13.6 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3096
+HLimits -5 5
+PLimits 0 20
+BLimits -20 20
+PJointStiffness 100
+BJointStiffness 50
+PivotPoint 0.6049999 2.015 0.4
+ParentObject 41
+GoalObject 45
+GoalStrength 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\main_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.6099999 2.009999 0.39 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3072
+HLimits -5 5
+PLimits 0 20
+BLimits -20 20
+PJointStiffness 100
+BJointStiffness 50
+PivotPoint -0.6099999 2.009999 0.39
+ParentObject 42
+GoalObject 44
+GoalStrength 1
+ShadowOptions 7
+
+LoadObject T:\mib\malone\mollet_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.185 0.8650001 0.2000001 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -160 0
+HJointStiffness 100
+PivotPoint 0.185 0.8650001 0.2000001
+ParentObject 32
+ShadowOptions 7
+
+LoadObject T:\mib\malone\mollet_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.175 0.8699999 0.2 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3104
+HLimits -5 5
+PLimits -160 0
+HJointStiffness 100
+PivotPoint -0.175 0.8699999 0.2
+ParentObject 33
+ShadowOptions 7
+
+LoadObject T:\mib\malone\pied_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.18 0.2 0.21 -0.1320375 1.675487 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+HLimits -5 5
+PLimits -20 20
+HJointStiffness 100
+PJointStiffness 100
+PivotPoint 0.18 0.2 0.21
+ParentObject 37
+ShadowOptions 7
+
+LoadObject T:\mib\malone\pied_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.175 0.2 0.215 0 2.900001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3112
+HLimits -5 5
+PLimits -20 20
+HJointStiffness 100
+PJointStiffness 100
+PivotPoint -0.175 0.2 0.215
+ParentObject 38
+ShadowOptions 7
+
+LoadObject T:\mib\malone\poignet_l.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.5599999 2.59 0.36 -0.02878353 0 -72.59998 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+HLimits -15 15
+PLimits 0 90
+HJointStiffness 50
+PivotPoint 0.5599999 2.59 0.36
+ParentObject 30
+ShadowOptions 7
+
+LoadObject T:\mib\malone\poignet_r.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.5699999 2.595001 0.36 0.7670707 0 66.896 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+HLimits -15 15
+PLimits 0 90
+HJointStiffness 50
+PivotPoint -0.5699999 2.595001 0.36
+ParentObject 31
+ShadowOptions 7
+
+AddNullObject null_mallone
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.1793155 0 -0.3467983 45.89999 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+AddNullObject goal_main_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.9256831 2.035005 -0.4666177 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 29
+ShadowOptions 7
+
+AddNullObject goal_main_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0.997256 1.534999 0.05203833 -14.2 -1.6 0 1 1 1
+  0 0 0 0 0
+  1.238794 3.510003 -0.01713311 0 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 29
+ShadowOptions 7
+
+AddNullObject Null_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2528817 0 -0.3374922 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 56
+ParentObject 39
+GoalObject 49
+GoalStrength 1
+ShadowOptions 7
+
+AddNullObject Null_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.274833 0 -0.3333419 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 56
+ParentObject 40
+GoalObject 48
+GoalStrength 1
+ShadowOptions 7
+
+AddNullObject goal_pied_R
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.274833 0 -0.3333419 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 43
+ShadowOptions 7
+
+AddNullObject goal_pied_L
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2573659 0 -0.3576138 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 43
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.531963 1.325001 -2.375607 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ObjDissolve 0.600000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.777961 1.270001 -4.092283 180 0 0 1.872 1.872 1.872
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ObjDissolve 0.600000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.640346 5.035001 -2.866098 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ObjDissolve 0.600000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.352285 5.08 -5.822402 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ObjDissolve 0.600000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  -4.24733 1.325001 2.819901 180 0 0 1.638 1.638 1.638
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ObjDissolve 0.600000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.1102277 -0.4199989 0.4889534 180 0 0 1.274 1 0.9559999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 432
+ObjDissolve 0.600000
+ShadowOptions 7
+
+AmbientColor 0 64 128
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  9.367334 3.554998 -4.492948 68.70002 6.300004 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 25
+LightColor 55 163 198
+LgtIntensity 4.000000
+LightType 1
+LightFalloff 1
+LightRange 15.000000
+ShadowType 0
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -4.415001 5.605 -1.645001 68.70002 6.300004 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 25
+LightColor 255 255 255
+LgtIntensity 1.500000
+LightType 1
+LightFalloff 1
+LightRange 20.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  9.409998 5.605 -3.34 68.70002 6.300004 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 25
+LightColor 128 255 255
+LgtIntensity 4.000000
+LightType 1
+LightFalloff 1
+LightRange 15.000000
+ShadowType 0
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  2.942726 3.083751 5.334976 -163.6001 4.29995 0 1 1 1
+  0 0 -1 0 0
+  -2.70709 4.173752 5.335153 -198.6 10.19995 0 1 1 1
+  250 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+ZoomFactor 2.000000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 1850000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 4.093471 3.184841 -0.999227
+ViewDirection -1.061160 -0.644026 0.000000
+ViewZoomFactor 1.501554
+GridNumber 20
+GridSize 1.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

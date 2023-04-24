@@ -1,0 +1,465 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 150
+PreviewFrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject T:\ufoland\landsape.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  11
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.01999999 0 0.00299999 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 -0.009999998 0 0 0 1 1 1
+  2 0 0 0 0
+  -0.014 0 -0.004999997 0 0 0 1 1 1
+  3 0 0 0 0
+  0.01 0 -0.008999986 0 0 0 1 1 1
+  4 0 0 0 0
+  0.007999989 0 0.01200002 0 0 0 1 1 1
+  5 0 0 0 0
+  -0.01400001 0 0.006000001 0 0 0 1 1 1
+  6 0 0 0 0
+  1.396984e-009 0 -0.005000018 0 0 0 1 1 1
+  7 0 0 0 0
+  -0.01800002 0 -0.001000004 0 0 0 1 1 1
+  8 0 0 0 0
+  0.003999979 0 -0.008000017 0 0 0 1 1 1
+  9 0 0 0 0
+  -2.235174e-008 0 0.0009999942 0 0 0 1 1 1
+  10 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  9.240606 2.449998 4.370166 0 90 0 2.888 2.888 2.888
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  11.6906 1.449997 -9.679834 0 90 0 2.678 2.678 2.678
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.5406049 2.199999 -8.429826 0 90 0 2.506001 2.506001 2.506001
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.959396 4.049996 -1.029832 0 90 0 3.224001 3.224001 3.224001
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.0906 5.199998 -7.579834 0 90 0 2.852 2.852 2.852
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.109397 5.649995 6.670166 0 90 0 2.530001 2.530001 2.530001
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.9906032 0.9499983 2.470167 0 90 0 2.728 2.728 2.728
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.800000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  15.2406 2.949998 -7.209835 0 90 0 1.828002 1.828002 1.828002
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.250000
+ShadowOptions 7
+
+LoadObject T:\ufoland\stars.lwo
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2.25 -2 0 0 0 1.925999 1.925999 1.925999
+  0 0 0 0 0
+EndBehavior 1
+PolygonSize (envelope)
+  1
+  11
+  0.08
+  0 0 0 0 0
+  0.09
+  1 0 0 0 0
+  0.072
+  2 0 0 0 0
+  0.09
+  3 0 0 0 0
+  0.072
+  4 0 0 0 0
+  0.076
+  5 0 0 0 0
+  0.074
+  6 0 0 0 0
+  0.092
+  7 0 0 0 0
+  0.08
+  8 0 0 0 0
+  0.086
+  9 0 0 0 0
+  0.09
+  10 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\ufoland\stars.lwo
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2.25 -2 177.5 0 0 2.46 2.46 2.46
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PolygonSize (envelope)
+  1
+  13
+  0.0975
+  0 0 0 0 0
+  0.09589999
+  1 0 0 0 0
+  0.097
+  2 0 0 0 0
+  0.0869
+  3 0 0 0 0
+  0.0929
+  4 0 0 0 0
+  0.0934
+  5 0 0 0 0
+  0.0919
+  6 0 0 0 0
+  0.0868
+  7 0 0 0 0
+  0.0975
+  8 0 0 0 0
+  0.09
+  9 0 0 0 0
+  0.09509999
+  10 0 0 0 0
+  0.0928
+  11 0 0 0 0
+  0.09509999
+  12 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  12.2706 3.549998 -2.199833 0 90 0 2.658001 2.658001 2.658001
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.350000
+ShadowOptions 7
+
+LoadObject T:\ufoland\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  14.64973 1.56 -5.005231 0 0 0 0.608 0.608 0.608
+  0 0 -0.97 0 0
+  8.507357 2.46 -7.780072 0 0 0 0.608 0.608 0.608
+  50 0 -0.18 0 0
+  -7.381745 3.12 -9.578223 0 0 0 0.608 0.608 0.608
+  150 0 1 0 0
+EndBehavior 1
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 -1 0 0
+  0
+  75 0 0 0 0
+  1
+  150 0 -1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\ufoland\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -0.15 0 0 0 0 1.148 1.148 1.148
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 13
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 -1 0 0
+  0.75
+  75 0 0 0 0
+  1
+  150 0 -1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\ufoland\ufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -0.15 0 0 0 0 1.148 1.148 1.148
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 128
+ParentObject 14
+ObjDissolve (envelope)
+  1
+  3
+  1
+  0 0 -1 0 0
+  0.85
+  75 0 0 0 0
+  1
+  150 0 -1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\flare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  14.29061 1.759998 -7.909837 0 90 0 3.686002 3.686002 3.686002
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 1 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.559393 1.169998 -6.839837 0 90 0 4.562003 4.562003 4.562003
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ObjDissolve 0.500000
+ShadowOptions 7
+
+LoadObject T:\titles\ufolanding.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  -2.034077 0 5.025173 -13.5 90 0 1.67 1.362 1.338001
+  0 0 0 0 0
+  -0.6951806 0 4.742471 0 90 0 1.67 1.362 1.338001
+  66 0 0 0 0
+  2.184819 0 4.772473 24.2 90 0 1.67 1.362 1.338001
+  150 0 0 0 0
+EndBehavior 1
+LockedChannels 368
+ParentObject 13
+ObjDissolve (envelope)
+  1
+  5
+  1
+  0 0 -0.98 0 0
+  1
+  25 0 1 0 0
+  0
+  80 0 0 0 0
+  1
+  125 0 1 0 0
+  1
+  150 0 -1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\titles\shadowufo.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  4.279247 -0.9899999 3.155715 0 90 0 0.05800003 0.05800003 0.05800003
+  0 0 -0.97 0 0
+  1.489247 -0.9899999 1.905714 0 90 0 1.238 1.238 1.238
+  80 0 0 0 0
+  -5.920754 -0.9899999 1.965714 0 90 0 0.02400002 0.02400002 0.02400002
+  150 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ObjDissolve (envelope)
+  1
+  4
+  1
+  0 0 -1 0 0
+  0.998
+  10 1 1 -1 0
+  0
+  75 0 0 0 0
+  1
+  141 0 0.99 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 26 51 77
+AmbIntensity 0.500000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  9.500001 7 -3.97 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 24 74 124
+LgtIntensity 4.000000
+LightType 1
+LightFalloff 1
+LightRange 10.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 31.7 -10.19999 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 255 255 128
+LgtIntensity 6.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  13.13999 8.239999 -10.37 31.7 -10.19999 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 255 255 128
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 15.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  5.888327 4.54999 -10.72968 19.69995 59.99998 0 1 1 1
+  0 0 0 0 0
+  4.309992 14 -6.149617 -11.7 76.80003 0 1 1 1
+  150 0 0 0 0
+EndBehavior 1
+ZoomFactor 1.252000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint -2.163377 3.120000 -3.946559
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185185
+GridNumber 100
+GridSize 2.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

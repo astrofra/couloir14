@@ -1,0 +1,265 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 50
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 120
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\hall\hall2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\hall\pipes2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\hall\rido.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 0
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\cube.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 3.454001 3.454001 3.454001
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 0
+
+LoadObject T:\hall\ufo2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.007023495 0 0.0008188523 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\hall\ufo_vitres.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\hall\ufo_vitres_inside.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.27 0 0 0 0 0.7000015 0.7000015 0.7000015
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 6
+ShadowOptions 7
+
+LoadObject T:\hall\ufo_vitres_inside.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.175 0 0 0 0 0.8000012 0.8000012 0.8000012
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 6
+ShadowOptions 7
+
+LoadObject T:\hall\ufo_vitres_inside.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.15 0 0 0 0 0.8500009 0.8500009 0.8500009
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 53
+ParentObject 6
+ShadowOptions 7
+
+AmbientColor 0 64 128
+AmbIntensity 0.250000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  5.715002 6.010004 -4.100003 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 12.000000
+ShadowType 1
+
+AddLight
+LightName debouche
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.4699998 2.019998 0.7199991 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 80 101 118
+LgtIntensity 4.000000
+LightType 1
+LightFalloff 1
+LightRange 2.000000
+ShadowType 1
+
+AddLight
+LightName debouche
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.4599998 2.499999 0.7199991 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 128 128 128
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 1.000000
+ShadowType 1
+
+AddLight
+LightName debouche
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.62396 0.8899959 3.001597 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 0 0
+LgtIntensity 2.000000
+LightType 1
+LightFalloff 1
+LightRange 2.000000
+ShadowType 1
+
+AddLight
+LightName debouche
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.62396 0.8899959 3.001597 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 128 0 64
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 6.000000
+ShadowType 1
+
+AddLight
+LightName debouche
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.780519 0.8899959 -2.74864 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 71 80 120
+LgtIntensity 2.000000
+LightType 1
+LightFalloff 1
+LightRange 2.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  -4.891183 1.364 -1.625366 52.14996 20.80002 0 1 1 1
+  0 0 1 0 0
+  -4.891183 0.8969995 -1.625366 52.14996 20.80002 0 1 1 1
+  100 0 1 0 0
+EndBehavior 1
+LockedChannels 32
+ZoomFactor 1.500000
+Resolution 0
+PixelAspectRatio 2
+SegmentMemory 1850000
+Antialiasing 1
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 217 255 255
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 1
+RayRecursionLimit 16
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint 0.245000 -1.170000 -1.540002
+ViewDirection 0.375246 -0.654498 0.000000
+ViewZoomFactor 4.000001
+GridNumber 0
+GridSize 1.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

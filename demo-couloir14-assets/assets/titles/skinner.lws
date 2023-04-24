@@ -1,0 +1,312 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 46
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 150
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject T:\titles\skinner.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -0.7999999 0 0 0 0 0.7839999 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 325
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -1.8 0.4800006 1.530001 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.6899998 0.4300004 1.790002 0 0 0 1 1 1
+  62 0 0 0 0
+  -0.24 0.4299997 1.810003 0 0 0 1 1 1
+  125 0 0 0 0
+  -0.2073818 0.4299997 1.926679 0 0 0 1 1 1
+  130 0 0 0 0
+  -0.09 0.4299997 2.880002 0 0 0 1 1 1
+  150 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\titles\boss.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  1.7 -0.54 1.21 0 90 0 0.5779999 0.5779999 0.5779999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 29
+ObjDissolve (envelope)
+  1
+  4
+  1
+  0 0 0 0 0
+  1
+  51 0 1 0 0
+  0
+  114 0 1 0 0
+  0
+  187 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.6800002 -0.7099999 -1.01 0 90 0 0.5380001 0.5380001 0.5380001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.38 -0.9300003 1.77 0 90 0 0.9880002 0.9880002 0.9880002
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.4600006 -0.4700001 -0.08999991 0 90 0 0.7460001 0.7460001 0.7460001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  2.2 -0.54 -2.939999 0 90 0 0.5380001 0.5380001 0.5380001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.27 -0.61 -2.449999 0 90 0 0.5380001 0.5380001 0.5380001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1.97 -0.61 0.52 0 90 0 0.5380001 0.5380001 0.5380001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5.200001 -1.05 1.6 0 90 0 0.9880002 0.9880002 0.9880002
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.91 -0.2900001 -2 0 90 0 1.374 1.374 1.374
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject T:\skflare.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.450001 -0.2000001 -4.260001 0 90 0 0.9880002 0.9880002 0.9880002
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject T:\bluecube.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 3.995999 3.995999 3.995999
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve (envelope)
+  1
+  10
+  0
+  0 0 1 0 0
+  1
+  15 0 1 0 0
+  1
+  28 0 1 0 0
+  0.7880009
+  31 0 0 0 0
+  1
+  35 0 1 0 0
+  1
+  67 0 1 0 0
+  0.8760008
+  71 0 0 0 0
+  1
+  75 0 1 0 0
+  1
+  135 0 1 0 0
+  0
+  150 0 1 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+LightColor 255 255 255
+LgtIntensity 3.000000
+LightType 1
+LightFalloff 1
+LightRange 1.500000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+LightColor 32 64 96
+LgtIntensity 3.000000
+LightType 1
+LightFalloff 1
+LightRange 3.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  2
+  1.65 1.12 0.5799999 0 0 0 1 1 1
+  0 0 0 0 0
+  1.65 1.12 0.5799999 0 0 0 1 1 1
+  125 0 0 0 0
+EndBehavior 1
+LightColor 172 194 213
+LgtIntensity (envelope)
+  1
+  5
+  0
+  0 0 1 0 0
+  1.07
+  80 0 -1 0 0
+  2.000001
+  100 0 1 0 0
+  1.259999
+  112 0 -1 0 0
+  0
+  187 0 1 0 0
+EndBehavior 1
+LightType 1
+LightFalloff 1
+LightRange 6.000000
+ShadowType 1
+
+ShowCamera 1 3
+CameraMotion (unnamed)
+  9
+  4
+  -0.07495034 -0.2258515 2.77493 5.154686 106.9639 0.555709 1 1 1
+  0 0 1 0 0
+  -0.2609013 -0.2099905 2.850086 28.2 120.8999 0 1 1 1
+  53 0 -0.46 0 0
+  1.022939 0.5703954 0.7510549 -20.34403 78.04602 -5.537477 1 1 1
+  109 0 0.32 0 0
+  1.162939 0.6543955 0.4710549 -24.74403 74.64597 -6.297478 1 1 1
+  150 0 1 0 0
+EndBehavior 1
+ZoomFactor 0.576000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 1850000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185185
+GridNumber 10
+GridSize 2.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0
