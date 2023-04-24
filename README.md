@@ -20,6 +20,8 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 ### Reception
 
+_Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
+
 1. "Wow, just rewatched Couloir14 after so many years, and it still holds up! The design and visuals are stunning, even by today's standards. Kudos to the team behind it! 👍" - **PixelPirate**
 
 2. "Couloir14 was a true masterpiece! The music still gets me every time I watch it. Can't believe it's been 22 years since its release. 👍" - **SynthSorcerer**
