@@ -18,6 +18,33 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 :link: [See the demoscene production](https://www.pouet.net/prod.php?which=3054)
 
+### Reception
+
+1. "Wow, just rewatched Couloir14 after so many years, and it still holds up! The design and visuals are stunning, even by today's standards. Kudos to the team behind it! 👍" - **PixelPirate**
+
+2. "Couloir14 was a true masterpiece! The music still gets me every time I watch it. Can't believe it's been 22 years since its release. 👍" - **SynthSorcerer**
+
+3. "I remember being at the VIP demoparty in 2001 and seeing Couloir14 for the first time. I was absolutely blown away by the creativity and technical prowess on display. 👍" - **RetroRevolution**
+
+4. "Couloir14 is just a glorified 3D scene player. It's impressive, but it doesn't push the boundaries of creativity like other demos do. 🐷" - **CriticalCoder**
+
+5. "To think that Couloir14 ranked 2nd and it's still an all-time favorite for so many of us. The demo truly showcases the talent of the demoscene community. 👍" - **DemoDiva**
+
+6. "The synchronization of visuals and audio in Couloir14 is so on point, it's hypnotic. This demo is one of the reasons I got into the demoscene in the first place. 👍" - **VisualVoyager**
+
+7. "Every time I watch Couloir14, I find something new to appreciate. The attention to detail and the intricate design is just mind-blowing! 👍" - **DetailDetective**
+
+8. "Couloir14 is too short for my taste. It feels like the creators could have done so much more with it. The potential was there, but it was left unrealized. 🐷" - **ShortDemoSkeptic**
+
+9. "Couloir14 will always have a special place in my heart. The demo was ahead of its time, pushing the boundaries of what was possible with technology back in 2001. 👍" - **TimeTraveler**
+
+10. "I can't help but feel that Couloir14 is just too French. I appreciate the technical skill, but the overall vibe doesn't resonate with me. 🐷" - **NationalNaysayer**
+
+11. "It's amazing to see how well Couloir14 has aged. The graphics, the sound, the pacing – everything about it is still impressive. A true testament to the talent of its creators. 👍" - **DemoConnoisseur**
+
+12. "If you haven't seen Couloir14 yet, you're missing out on a piece of demoscene history. This demo is a must-watch for anyone who appreciates digital art and creativity. 👍" - **ArtisticAppreciator**
+
+
 <br>
 
 ## Misc documents
