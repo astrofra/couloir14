@@ -1,14 +1,6 @@
 ![Couloir 14, Title](img/c14-title.png)
 
-_Couloir 14, found documents_<br>
-<br>
-## Website
-
-:page_with_curl: _Smith, J., & Müller, K. (2023). Uncovering Hidden Truths and Exploring Alternate Realities: The Couloir 14 Project (Ref. C14-2023-04). Journal of Unconventional Research, 1(1), 1-25."_
-
-Introducing the C̴o̶u̷l̴o̵i̶r̸ 14 project (Ref. C14-2023-04), a c̵o̶m̵p̸r̵e̶h̵e̷n̵s̸i̵v̷e̵ investigation into a diverse collection of d̷o̵c̶u̷m̸e̵n̶t̵s̷ aimed at u̸n̴e̴a̴r̷t̸h̴i̴n̵g̷ hidden t̸r̵u̶t̵h̷s̵ and exploring *a̷l̵t̶e̷r̸n̶a̷t̴e̷* realities. Our rigorous research *methodology* includes the a̶n̴a̷l̸y̶s̴i̴s̷ of f̴a̶b̴r̵i̷c̶a̸t̷e̵d̶ quotes from well-known *personalities* to challenge c̷o̵n̶v̵e̸n̵t̶i̵o̷n̸a̶l̵ wisdom and encourage c̵r̷i̸t̶i̵c̷a̷l̸ *thinking* about the world around us.
-
-:link: [Visit the website](https://astrofra.github.io/couloir14/)
+_Couloir 14, based on found documents_
 
 <br>
 
@@ -25,3 +17,13 @@ Some theories suggest that "C̴o̷u̴l̸o̷i̴r̴ 14" contains c̴r̷y̴p̵t̴i�
 Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e̴ adult magazine made the bold decision to publish the d̷e̵m̶o̷ in an attempt to provide a "d̶e̶m̷o̸s̶h̷o̵c̷k" to the *J̶a̷p̵a̷n̶e̸s̷e̵* audience. The magazine, known for pushing boundaries and exploring u̶n̷c̷o̷n̶v̷e̵n̶t̶i̸o̷n̷a̶l̷ *content*, believed that the p̷r̵o̶v̵o̸c̵a̷t̵i̷v̵e̸ nature of "Couloir 14" would *resonate* with their *readers* and challenge their *perceptions* of d̴i̵g̴i̶t̷a̵l̷ art.
 
 :link: [See the demoscene production](https://www.pouet.net/prod.php?which=3054)
+
+<br>
+
+## Misc documents
+
+:page_with_curl: _Smith, J., & Müller, K. (2023). Uncovering Hidden Truths and Exploring Alternate Realities: The Couloir 14 Project (Ref. C14-2023-04). Journal of Unconventional Research, 1(1), 1-25."_
+
+Introducing the C̴o̶u̷l̴o̵i̶r̸ 14 project (Ref. C14-2023-04), a c̵o̶m̵p̸r̵e̶h̵e̷n̵s̸i̵v̷e̵ investigation into a diverse collection of d̷o̵c̶u̷m̸e̵n̶t̵s̷ aimed at u̸n̴e̴a̴r̷t̸h̴i̴n̵g̷ hidden t̸r̵u̶t̵h̷s̵ and exploring *a̷l̵t̶e̷r̸n̶a̷t̴e̷* realities. Our rigorous research *methodology* includes the a̶n̴a̷l̸y̶s̴i̴s̷ of f̴a̶b̴r̵i̷c̶a̸t̷e̵d̶ quotes from well-known *personalities* to challenge c̷o̵n̶v̵e̸n̵t̶i̵o̷n̸a̶l̵ wisdom and encourage c̵r̷i̸t̶i̵c̷a̷l̸ *thinking* about the world around us.
+
+:link: [Visit the website](https://astrofra.github.io/couloir14/)
