@@ -22,27 +22,25 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 _Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
 
-- "Absolutely loved the atmosphere and the soundtrack in Couloir14. The code and graphics just blend together so perfectly. Must watch! 👍" - **demoDude**
+- "I much enjoying atmosphere and soundtrack in Couloir14. Code and graphics blend very well. Must see! 👍" - **demoDude**
 
-- "I appreciate the unique style of Couloir14, but it's way too short to leave a lasting impression. It had potential, though. 🐷" - **BrevityBasher**
+- "Couloir14 has unique style, but too short for make big impact. Potential is there, though. 🐷" - **BrevityBasher**
 
-- "Couloir14 is a cool demo with some interesting concepts, but it lacks a real climax. It just ends abruptly. Thumbs down. 👎" - **ClimaxCritic**
+- "For me, Couloir14 interesting demo with concepts, but no real climax. Just end too soon. Thumbs down. 👎" - **ClimaxCritic**
 
-- "I have to admit, the graphics and music in Couloir14 are top-notch. It's a shame that the demo as a whole feels rather unfinished. 🐷" - **IncompleteInspector**
+- "I must say, graphics and music in Couloir14 quite nice. But demo feeling unfinished as whole. 🐷" - **IncompleteInspector**
 
-- "Men in black meets X-files? Count me in! Couloir14 has such a unique theme and vibe. Definitely worth watching. 👍" - **ThemeEnthusiast**
+- "Men in black with X-files together? I like! Couloir14 has special theme and feeling. Worth watching. 👍" - **ThemeEnthusiast**
 
-- "I can't help but feel that Couloir14 is overrated. Sure, it has nice graphics and a great soundtrack, but it's just another 3D scene player. 🐷" - **OverratedObserver**
+- "I think Couloir14 overrated. Yes, nice graphics and great soundtrack, but just another 3D scene player. 🐷" - **OverratedObserver**
 
-- "Couloir14 has an interesting style, but it falls short of being a memorable demo. It's not terrible, but it's not great either. Thumbs down. 👎" - **MiddleGroundGuru**
+- "Couloir14 interesting style, but not enough for memorable demo. Not terrible, not great. Thumbs down. 👎" - **MiddleGroundGuru**
 
-- "The sound and visuals in Couloir14 are truly impressive. I love the X-files inspired theme and the overall design. Big thumbs up! 👍" - **SciFiFanatic**
+- "Sound and visuals in Couloir14 very impressive. I love X-files inspired theme and all design. Big thumbs up! 👍" - **SciFiFanatic**
 
-- "Couloir14 is a fantastic example of great design and atmosphere. The soundtrack is perfect, and the visuals are just amazing. Keep up the good work! 👍" - **DesignDevotee**
+- "Couloir14 example of great design and atmosphere. Soundtrack perfect and visuals amazing. Good work continue! 👍" - **DesignDevotee**
 
-- "Couloir14's graphics are really well-done, and the music is catchy. However, the demo lacks depth and feels unfinished. A promising attempt, but could have been better. 👍" - **ConstructiveCritic**
-
-
+- "Graphics in Couloir14 well-done, music catchy. But demo lacks depth, feels unfinished. Promising try, could be better. 👍" - **ConstructiveCritic**
 
 <br>
 
