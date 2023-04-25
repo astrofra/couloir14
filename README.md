@@ -10,14 +10,15 @@ This repository contains the graphic sources for the demoscene production **Coul
 
 ## Prerequisites
 
-If you want to play with these files, you must understand how the "content folder" worked in older versions of Lightwave. The most straightforward approach is to remap the local folder containing the assets to the folder referenced throughout the Lightwave files (in this case, `T:/something/something`).
-:warning: These are legacy 3D files, handle with caution.
+If you want to play with these files, you must understand how the "content folder" worked in older versions of Lightwave.
 
 ## Running the Demo
 
 To run the demo, follow these steps:
 
-1. Download the original Scene player developed by XBarr from the provided URL: https://github.com/demoscene-source-archive/preservation-nxng-engine
+1. Download the original scene player developed by XBarr:
+  - found in [demo-couloir14-assets/S3DE_player](demo-couloir14-assets/S3DE_player)
+  - from the provided URL: https://github.com/demoscene-source-archive/preservation-nxng-engine
 2. Edit the file `mount_folder_1st.bat` to set the local folder where the assets were cloned (this is a Git repository).
 3. Start the Scene player.
 4. Load the playlist file "demo.spl".
@@ -26,7 +27,7 @@ To run the demo, follow these steps:
 
 > **Notes on Folder Structure**
 
- It's crucial to set up the correct folder structure for the demo to work properly. You will need to remap the local folder containing the assets to the folder that is referenced throughout the Lightwave files (in this case, `T:/something/something`).
+ It's crucial to set up the correct folder structure for the demo to work properly. You will need to mount the local folder containing the assets to the folder that is referenced throughout the Lightwave files (in this case, `T:\`).
 
  For example, if your local folder is `C:/Couloir14/assets`, you would need to edit the file `mount_folder_1st.bat` (that is essentially doing a `subst` MS-DOS command).
 
