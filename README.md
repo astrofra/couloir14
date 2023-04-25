@@ -87,3 +87,9 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 Introducing the C̴o̶u̷l̴o̵i̶r̸ 14 project (Ref. C14-2023-04), a c̵o̶m̵p̸r̵e̶h̵e̷n̵s̸i̵v̷e̵ investigation into a diverse collection of d̷o̵c̶u̷m̸e̵n̶t̵s̷ aimed at u̸n̴e̴a̴r̷t̸h̴i̴n̵g̷ hidden t̸r̵u̶t̵h̷s̵ and exploring *a̷l̵t̶e̷r̸n̶a̷t̴e̷* realities. Our rigorous research *methodology* includes the a̶n̴a̷l̸y̶s̴i̴s̷ of f̴a̶b̴r̵i̷c̶a̸t̷e̵d̶ quotes from well-known *personalities* to challenge c̷o̵n̶v̵e̸n̵t̶i̵o̷n̸a̶l̵ wisdom and encourage c̵r̷i̸t̶i̵c̷a̷l̸ *thinking* about the world around us.
 
 :link: [Visit the website and browse the lost+found documents](https://astrofra.github.io/couloir14/)
+
+# Misc Lightwave 3D screenshots
+
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw003.png)<br>
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw002.png)<br>
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw001.png)<br>
