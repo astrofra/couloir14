@@ -36,7 +36,7 @@ _the nXng interface_
 _the playlist selector_
 
 ## Credits
-- 3D graphics and overall design by [Astrofra]() (aka [Fra](https://www.pouet.net/user.php?who=940&show=credits))
+- 3D graphics and overall design by [Astrofra](https://github.com/astrofra/) (aka [Fra](https://www.pouet.net/user.php?who=940&show=credits))
 - 3D engine & additionnal code by [XBarr](https://github.com/ejulien/) (aka [XBarr](https://www.pouet.net/user.php?who=940&show=credits))
 - [Music](https://github.com/astrofra/couloir14/raw/main/demo-couloir14-assets/assets/ils_sont_la.mp3) by [RR](https://www.pouet.net/user.php?who=479&show=credits)
 
