@@ -90,6 +90,8 @@ Introducing the C̴o̶u̷l̴o̵i̶r̸ 14 project (Ref. C14-2023-04), a c̵o̶m̵
 
 # Misc Lightwave 3D screenshots
 
-![Lightwave 3D screenshot](demo-couloir14-assets/img/lw003.png)<br>
-![Lightwave 3D screenshot](demo-couloir14-assets/img/lw002.png)<br>
-![Lightwave 3D screenshot](demo-couloir14-assets/img/lw001.png)<br>
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw003.png)<br><br>
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw001.png)<br><br>
+![Lightwave 3D screenshot](demo-couloir14-assets/img/lw002.png)<br><br>
+
+:black_small_square: _end of line_
