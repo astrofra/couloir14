@@ -10,7 +10,7 @@ This repository contains the graphic sources for the demoscene production **Coul
 
 ## Prerequisites
 
-If you want to play with these files, you must understand how the "content folder" worked in older versions of Lightwave.
+If you want to work/play with these files in Lightwave, you must understand how the "content folder" worked in older versions of Lightwave.
 
 ## Running the Demo
 
@@ -37,11 +37,12 @@ _the nXng interface_
 ![](demo-couloir14-assets/img/nxng_load.png)<br>
 _the playlist selector_
 
-## Acknowledgments
+## Credits
+- 3D graphics and overall design by [Astrofra]() (aka [Fra](https://www.pouet.net/user.php?who=940&show=credits))
+- 3D engine & additionnal code by [XBarr](https://github.com/ejulien/) (aka [XBarr](https://www.pouet.net/user.php?who=940&show=credits))
+- Music by [RR](https://www.pouet.net/user.php?who=479&show=credits)
 
-- A special thanks to [XBarr](https://github.com/ejulien/) for developing the Scene player that powers this demo.
-
-## Demoscene production
+# About this demoscene production
 
 :pill: Introducing "C̴o̵u̵l̶o̵i̸r̵ ̶1̵4," a c̵o̸n̵t̷r̵o̶v̵e̶r̵s̷i̵a̸l̵ demoscene *production* released in 2001 that has p̸u̵z̶z̵l̸e̵d̸ the m̶i̵n̸d̵s̸ of enthusiasts and experts alike. This p̸e̵r̸p̵l̷e̵x̶i̸n̵g̵ creation is infamous for its *p̵o̸l̵a̴r̵i̶z̸i̴n̴g̷* visuals, d̴i̷s̵s̷o̵n̸a̵n̶t̷ *audio*, and c̵o̸n̴v̴o̴l̸u̸t̸e̴d̷ coding techniques that question the limits of *digital* art and expression.
 
@@ -55,7 +56,7 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 :link: [See the demoscene production](https://www.pouet.net/prod.php?which=3054)
 
-### Reception
+## Reception
 
 _Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
 
@@ -81,7 +82,7 @@ _Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
 
 <br>
 
-## Misc documents
+# Misc documents
 
 :page_with_curl: _Smith, J., & Müller, K. (2023). Uncovering Hidden Truths and Exploring Alternate Realities: The Couloir 14 Project (Ref. C14-2023-04). Journal of Unconventional Research, 1(1), 1-25."_
 
