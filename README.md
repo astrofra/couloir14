@@ -6,7 +6,7 @@ _Couloir 14, based on found documents_
 
 # Couloir 14, graphic assets
 
-:floppy_disk: This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an extremely sophisticated player.
+:floppy_disk: This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an [extremely sophisticated player](https://www.pouet.net/prod.php?which=93899).
 
 ## Running the Demo
 
