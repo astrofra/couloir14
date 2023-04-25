@@ -78,6 +78,8 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 - "Graphics in Couloir14 are well-done, the music is catchy. But the demo lacks a bit of depth, feels unfinished. Promising attempt, could have been better. 👍" - **ConstructiveCritic**
 
+<sup><sub>_if you'd like to read the real comments, follow [this link](https://www.pouet.net/prod.php?which=3054#c5110)_</sup></sub>
+
 <br>
 
 # Lost+found documents
