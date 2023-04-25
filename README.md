@@ -6,15 +6,11 @@ _Couloir 14, based on found documents_
 
 # Couloir 14, graphic assets
 
-This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an extremely sophisticated player.
-
-## Prerequisites
-
-If you want to work/play with these files in Lightwave, you must understand how the "content folder" worked in older versions of Lightwave.
+:floppy_disk: This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an extremely sophisticated player.
 
 ## Running the Demo
 
-To run the demo, follow these steps:
+To run the demo from the assets, you need to follow these steps:
 
 1. Download the original scene player developed by XBarr:
   - found in [demo-couloir14-assets/S3DE_player](demo-couloir14-assets/S3DE_player)
@@ -24,6 +20,8 @@ To run the demo, follow these steps:
 4. Load the playlist file `demo.spl`.
 5. Select your screen resolution, click on `Fullscreen`.
 6. Click on `Replay`.
+
+The demo can be seen on Youtube as well: [www.youtube.com/watch?v=TZlOK5H9qtE](https://www.youtube.com/watch?v=TZlOK5H9qtE)
 
 > **Notes on Folder Structure**
 
@@ -58,7 +56,7 @@ Adding to the *intrigue* of "C̴o̵u̴l̴o̴i̵r̷ 14," a J̸a̴p̵a̷n̵e̸s̵e
 
 ## Reception
 
-_Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
+:mega: _Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
 
 - "I much enjoyed the atmosphere and soundtrack in Couloir14. Code and graphics blend very well. Must see! 👍" - **demoDude**
 
@@ -82,10 +80,10 @@ _Couloir14 ranked 2nd at VIP 2001 demoparty, in France._
 
 <br>
 
-# Misc documents
+# Lost+found documents
 
 :page_with_curl: _Smith, J., & Müller, K. (2023). Uncovering Hidden Truths and Exploring Alternate Realities: The Couloir 14 Project (Ref. C14-2023-04). Journal of Unconventional Research, 1(1), 1-25."_
 
 Introducing the C̴o̶u̷l̴o̵i̶r̸ 14 project (Ref. C14-2023-04), a c̵o̶m̵p̸r̵e̶h̵e̷n̵s̸i̵v̷e̵ investigation into a diverse collection of d̷o̵c̶u̷m̸e̵n̶t̵s̷ aimed at u̸n̴e̴a̴r̷t̸h̴i̴n̵g̷ hidden t̸r̵u̶t̵h̷s̵ and exploring *a̷l̵t̶e̷r̸n̶a̷t̴e̷* realities. Our rigorous research *methodology* includes the a̶n̴a̷l̸y̶s̴i̴s̷ of f̴a̶b̴r̵i̷c̶a̸t̷e̵d̶ quotes from well-known *personalities* to challenge c̷o̵n̶v̵e̸n̵t̶i̵o̷n̸a̶l̵ wisdom and encourage c̵r̷i̸t̶i̵c̷a̷l̸ *thinking* about the world around us.
 
-:link: [Visit the website](https://astrofra.github.io/couloir14/)
+:link: [Visit the website and browse the lost+found documents](https://astrofra.github.io/couloir14/)
