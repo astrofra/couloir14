@@ -18,7 +18,7 @@ To run the demo, follow these steps:
 
 1. Download the original scene player developed by XBarr:
   - found in [demo-couloir14-assets/S3DE_player](demo-couloir14-assets/S3DE_player)
-  - from the provided URL: https://github.com/demoscene-source-archive/preservation-nxng-engine
+  - or from https://github.com/demoscene-source-archive/preservation-nxng-engine
 2. Edit the file `mount_folder_1st.bat` to set the local folder where the assets were cloned.
 3. Start the Scene player (`nX_S3DE.exe`).
 4. Load the playlist file `demo.spl`.
