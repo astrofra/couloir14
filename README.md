@@ -4,6 +4,36 @@ _Couloir 14, based on found documents_
 
 <br>
 
+# Couloir 14, graphic assets
+
+This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an extremely sophisticated player.
+
+## Prerequisites
+
+If you want to play with these files, you must understand how the "content folder" worked in older versions of Lightwave. The most straightforward approach is to remap the local folder containing the assets to the folder referenced throughout the Lightwave files (in this case, `T:/something/something`).
+:warning: These are legacy 3D files, handle with caution.
+
+## Running the Demo
+
+To run the demo, follow these steps:
+
+1. Download the original Scene player developed by XBarr from the provided URL: https://github.com/demoscene-source-archive/preservation-nxng-engine
+2. Edit the file `mount_folder_1st.bat` to set the local folder where the assets were cloned (this is a Git repository).
+3. Start the Scene player.
+4. Load the playlist file "demo.spl".
+5. Select "Fullscreen".
+6. Click "Play".
+
+> **Notes on Folder Structure**
+
+ It's crucial to set up the correct folder structure for the demo to work properly. You will need to remap the local folder containing the assets to the folder that is referenced throughout the Lightwave files (in this case, `T:/something/something`).
+
+ For example, if your local folder is `C:/Couloir14/assets`, you would need to edit the file `mount_folder_1st.bat` (that is essentially doing a `subst` MS-DOS command).
+
+## Acknowledgments
+
+- A special thanks to [XBarr](https://github.com/ejulien/) for developing the Scene player that powers this demo.
+
 ## Demoscene production
 
 :pill: Introducing "C̴o̵u̵l̶o̵i̸r̵ ̶1̵4," a c̵o̸n̵t̷r̵o̶v̵e̶r̵s̷i̵a̸l̵ demoscene *production* released in 2001 that has p̸u̵z̶z̵l̸e̵d̸ the m̶i̵n̸d̵s̸ of enthusiasts and experts alike. This p̸e̵r̸p̵l̷e̵x̶i̸n̵g̵ creation is infamous for its *p̵o̸l̵a̴r̵i̶z̸i̴n̴g̷* visuals, d̴i̷s̵s̷o̵n̸a̵n̶t̷ *audio*, and c̵o̸n̴v̴o̴l̸u̸t̸e̴d̷ coding techniques that question the limits of *digital* art and expression.
