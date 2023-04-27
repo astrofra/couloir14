@@ -44,12 +44,12 @@ _the playlist selector_
 
 ## Misc LW3D screenshots
 
-![Factory island shot](demo-couloir14-assets/img/lw004.png)
-![Lost agent shot](demo-couloir14-assets/img/lw005.png)
-![Ufo landing shot](demo-couloir14-assets/img/lw006.png)
-![Invasion shot](demo-couloir14-assets/img/lw007.png)
-![Ufo hangar shot](demo-couloir14-assets/img/lw008.png)
-![Agents dolly shot](demo-couloir14-assets/img/lw009.png)
+[![Factory island shot](demo-couloir14-assets/img/lw004_thumb.png)](demo-couloir14-assets/img/lw004.png)
+[![Final agents shot](demo-couloir14-assets/img/lw010_thumb.png)](demo-couloir14-assets/img/lw010.png)
+[![Ufo landing shot](demo-couloir14-assets/img/lw006_thumb.png)](demo-couloir14-assets/img/lw006.png)
+[![Invasion shot](demo-couloir14-assets/img/lw007_thumb.png)](demo-couloir14-assets/img/lw007.png)
+[![Ufo hangar shot](demo-couloir14-assets/img/lw008_thumb.png)](demo-couloir14-assets/img/lw008.png)
+[![Agents dolly shot](demo-couloir14-assets/img/lw009_thumb.png)](demo-couloir14-assets/img/lw009.png)
 
 # About this demoscene production
 
