@@ -4,9 +4,11 @@ _Couloir 14, based on found documents_
 
 <br>
 
-# Couloir 14, graphic assets
+# Couloir 14, graphic + audio assets
 
 :floppy_disk: This repository contains the graphic sources for the demoscene production **Couloir 14**. These sources are mostly made up of [Lightwave 3D 5.5](https://en.wikipedia.org/wiki/LightWave_3D) files (.lws, .lwo, .jpg, .tga). The demo is essentially a script of Lightwave scenes replayed by an [extremely sophisticated player](https://www.pouet.net/prod.php?which=93899).
+
+Many thanks to [RR aka "Red Ribbon"](https://www.pouet.net/user.php?who=479&show=credits) for such a great and original [soundtrack](https://github.com/astrofra/couloir14/raw/main/demo-couloir14-assets/assets/ils_sont_la.mp3) :hearts:
 
 ## Running the Demo
 
@@ -39,6 +41,15 @@ _the playlist selector_
 - 3D graphics and overall design by [Astrofra](https://github.com/astrofra/) (aka [Fra](https://www.pouet.net/user.php?who=940&show=credits))
 - 3D engine & additionnal code by [XBarr](https://github.com/ejulien/) (aka [XBarr](https://www.pouet.net/user.php?who=940&show=credits))
 - [Music](https://github.com/astrofra/couloir14/raw/main/demo-couloir14-assets/assets/ils_sont_la.mp3) by [RR](https://www.pouet.net/user.php?who=479&show=credits)
+
+## Misc LW3D screenshots
+
+![Factory island shot](demo-couloir14-assets/img/lw004.png)
+![Lost agent shot](demo-couloir14-assets/img/lw005.png)
+![Ufo landing shot](demo-couloir14-assets/img/lw006.png)
+![Invasion shot](demo-couloir14-assets/img/lw007.png)
+![Ufo hangar shot](demo-couloir14-assets/img/lw008.png)
+![Agents dolly shot](demo-couloir14-assets/img/lw009.png)
 
 # About this demoscene production
 
