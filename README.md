@@ -15,7 +15,7 @@ To run the demo from the assets, you need to follow these steps:
 1. Download the original scene player developed by XBarr:
   - found in [demo-couloir14-assets/S3DE_player](demo-couloir14-assets/S3DE_player)
   - or from https://github.com/demoscene-source-archive/preservation-nxng-engine
-2. Edit the file `mount_folder_1st.bat` to set the local folder where the assets were cloned.
+2. Double-click on `mount_folder_1st.bat` to mount the local clone as `T:\`.
 3. Start the Scene player (`nX_S3DE.exe`).
 4. Load the playlist file `demo.spl`.
 5. Select your screen resolution, click on `Fullscreen`.
@@ -25,9 +25,9 @@ The demo can be seen on Youtube as well: [www.youtube.com/watch?v=TZlOK5H9qtE](h
 
 > **Notes on Folder Structure**
 
- It's crucial to set up the correct folder structure for the demo to work properly. You will need to mount the local folder containing the assets to the folder that is referenced throughout the Lightwave files (in this case, `T:\`).
+ It's crucial to set up the correct folder structure for the Lightwave project files to work properly. You will need to mount the local folder containing the assets to the folder that is referenced throughout the Lightwave files (in this case, `T:\`).
 
- For example, if your local folder is `C:/Couloir14/assets`, you would need to edit the file `mount_folder_1st.bat` (that is essentially doing a `subst` MS-DOS command).
+ That's why you will need to run `mount_folder_1st.bat` (that is essentially doing a `subst` MS-DOS command).
  
 ![](demo-couloir14-assets/img/nxng_start.png)<br>
 _the nXng interface_
